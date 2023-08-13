@@ -13,5 +13,6 @@ import java.util.Map;
 @AllArgsConstructor
 @NoArgsConstructor
 public class ApiResponseWrapper {
-    private List<Map<String, Object>> PostOffice;
+    private List<Map<String, String>> map;
+
 }

@@ -10,9 +10,9 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 public class ApiResponse {
-    private Object Name;
-    private Object State;
-    private Object Country;
-    private Object Pincode;
+    private String name;
+    private String state;
+    private String country;
+    private String pincode;
 
 }
