@@ -1,4 +1,4 @@
-package com.example.moviessurveyor;
+package com.example.pincodesurveyor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
